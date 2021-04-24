@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/microsoft/vscode-nodebook)
+
 # Debugging in a JavaScript Notebook
 
 A sample Javascript notebook that supports debugging.
